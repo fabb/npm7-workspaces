@@ -1,0 +1,13 @@
+{
+    "name": "@fabb/app2",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "tsc index.ts"
+    },
+    "dependencies": {
+        "@fabb/common1": "*"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.2"
+    }
+}

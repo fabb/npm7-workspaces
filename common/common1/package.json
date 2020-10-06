@@ -1,0 +1,7 @@
+{
+    "name": "@fabb/common1",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "tsc common1.ts"
+    }
+}
